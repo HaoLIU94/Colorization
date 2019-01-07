@@ -11,7 +11,8 @@
 3 ./get_models.sh #  Download the models
 ```
 
-4. Download the weight from [google drive](https://drive.google.com/file/d/1q-6ZbRPQCDQLhkIO5BDapMB4X_BunOM0/view?usp=sharing) 
+4. Download the weight from [google drive](https://drive.google.com/file/d/1q-6ZbRPQCDQLhkIO5BDapMB4X_BunOM0/view?usp=sharing).
+You need to name it as model.pkl and save at ./models/
 
 ## All our work exists in two versions jupyter notebook and python script
 
