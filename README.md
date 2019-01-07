@@ -7,9 +7,9 @@
 ```
 2. Download the weight from follwing link
 ```
-[Google Drive](https://drive.google.com/drive/folders/1X8uy37h8vSeYVAxagfK8uhcJdWKRuESH?usp=sharing)
+[Google Drive](https://drive.google.com/file/d/1Idx_Pm_vL8jebSbNW4kdfDlq_MjfTzhN/view?usp=sharing)
 
-You need to put all the files at ./models/
+You need to unzip and put all the files at ./models/
 
 ## All our work exists in two versions jupyter notebook and python script
 
