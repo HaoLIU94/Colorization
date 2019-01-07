@@ -2,7 +2,7 @@
 
 ## To successfully use this projet, you need to execute the follwing steps.
 ```
-1 pip install -r requirements.txt # Check anf install all packages requirements in python
+1 pip install -r requirements.txt # Check and install all packages requirements in python
 ```
 ```
 2 chmod u+x get_models.sh # Make this shell scipt executable
