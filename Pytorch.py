@@ -74,7 +74,7 @@ model.eval()
 # print(model)
 
 import pickle
-with open('Colorization1/model.pkl', 'rb') as f:
+with open('models/model.pkl', 'rb') as f:
     weights = pickle.load(f,encoding='latin1')
 W = []
 B = []
