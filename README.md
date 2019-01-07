@@ -1,6 +1,6 @@
 # Colorization automatic
 
-## To successfully use this projet, you need to execute the follwing steps.
+## To successfully use this project, you need to execute the following steps.
 ```
 1 pip install -r requirements.txt # Check and install all packages requirements in python
 ```
@@ -13,11 +13,11 @@
 
 4. Download the weight from [google drive](https://drive.google.com/file/d/1q-6ZbRPQCDQLhkIO5BDapMB4X_BunOM0/view?usp=sharing) 
 
-## All our works exist in two versions jupyter notebook and python script
+## All our work exists in two versions jupyter notebook and python script
 
-We recommand to use [jupyter notebook](https://jupyter.org/install) to open all *.ipynb files
+We recommand to use [jupyter notebook](https://jupyter.org/install) to open all .ipynb files
 
-It's also possible to use command line python *.py files
+It's also possible to use the command line python for .py files
 
 You should use python script in the following ways
 ```
