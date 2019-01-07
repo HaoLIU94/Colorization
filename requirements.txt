@@ -1,8 +1,7 @@
-torch==1.0.0
-matplotlib==2.2.2
-Keras==2.2.4
-scikit_image==0.13.1
-scipy==1.1.0
-tensorflow==1.10.0
-numpy==1.15.2
-skimage==0.0
+torch>=1.0.0
+matplotlib>=2.2.2
+Keras>=2.2.4
+scikit_image>=0.13.1
+scipy>=1.1.0
+tensorflow>=1.10.0
+numpy>=1.15.2
