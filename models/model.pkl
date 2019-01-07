@@ -1,0 +1,6 @@
+--2019-01-07 22:03:55--  https://docs.google.com/uc?export=download
+Resolving docs.google.com (docs.google.com)... 172.217.19.46, 2a00:1450:4007:816::200e
+Connecting to docs.google.com (docs.google.com)|172.217.19.46|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2019-01-07 22:03:55 ERROR 400: Bad Request.
+
