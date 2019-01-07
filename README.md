@@ -5,14 +5,11 @@
 1 pip install -r requirements.txt # Check and install all packages requirements in python
 ```
 ```
-2 chmod u+x get_models.sh # Make this shell scipt executable
+2. Download the weight from follwing link
 ```
-```
-3 ./get_models.sh #  Download the models
-```
+[Google Drive](https://drive.google.com/drive/folders/1X8uy37h8vSeYVAxagfK8uhcJdWKRuESH?usp=sharing)
 
-4. Download the weight from [google drive](https://drive.google.com/file/d/1q-6ZbRPQCDQLhkIO5BDapMB4X_BunOM0/view?usp=sharing).
-You need to name it as model.pkl and save at ./models/
+You need to put all the files at ./models/
 
 ## All our work exists in two versions jupyter notebook and python script
 
