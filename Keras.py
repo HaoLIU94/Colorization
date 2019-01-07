@@ -210,7 +210,7 @@ model.summary()
 (H_out,W_out) = model.output_shape[1],model.output_shape[2]  # get output shape
 
 # load the original image
-img_rgb = skimage.io.imread('img/NotreDame1.tif')
+img_rgb = skimage.io.imread('img/NotreDame.png')
 if len(img_rgb.shape) ==2:
     img_rgb = np.stack((img_rgb,) * 3, -1)
 elif img_rgb.shape[2] != 3:

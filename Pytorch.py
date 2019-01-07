@@ -110,7 +110,7 @@ import sys
 (H_out,W_out) =  56,56
 
 # load the original image
-path_img = 'img/lena.bmp'
+path_img = 'img/lena.png'
 if len(sys.argv) > 1:
     path_img = sys.argv[1]
 img_rgb = skimage.io.imread(path_img)

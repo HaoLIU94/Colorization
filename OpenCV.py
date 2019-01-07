@@ -39,7 +39,7 @@ def colorize(path_img,path_tores):
 
 def main(argv):
 	#Default illustrution 
-	path_img = './img/boat512.png'
+	path_img = './img/boat.png'
 	path_tores = 'boat_color.jpg'
 	if len(sys.argv) == 3:
 	    path_img = sys.argv[1]
