@@ -21,5 +21,13 @@ You should use python script in the following ways
 ```
 python script.py input_image output_image
 ```
+<img src="img/NotreDame.png" width="425"/> <img src="outputs/NotreDame.jpg" width="425"/> 
+
+<img src="img/lena.png" width="425"/> <img src="outputs/lena.jpg" width="425"/> 
+
+<img src="img/boat.png" width="425"/> <img src="outputs/boat.jpg" width="425"/> 
+
+
+
 [The orignal paper](https://arxiv.org/pdf/1603.08511.pdf)
 Richard Zhang, Phillip Isola, Alexei A. Efros. In ECCV, 2016.
